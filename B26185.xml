@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Londons glory, and Whittingtons renown or, A looking-glass for citizens of London Being a remarkable story, how Sir Richard Whittington (a poor boy bred up in Lancashire) came to be three times Lord Mayor of London in three several kings reigns, and how his rise was by a cat, which he sent for a venture beyond sea. Together with his bountiful gits and liberality given to this honourable city: and the vast sums of money he lent the King to maintain the vvars in France. And how at a great feast to which he invited the King, the Queen, and the nobility, he generously burnt the writings, and freely forgave his Majesty the whole debt. Tune of, Dainty come thou to me.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26185</idno><idno type="EEBO-CITATION">99827776</idno>
+  <idno type="VID">197998</idno>
+  <idno type="EEBO-PROQUEST">2240897446</idno>
+  
+            <idno type="STC">Wing L2930</idno>
+            <idno type="PROQUEST">99827776</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99827776e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26185)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197998)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 21232:58-59)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Londons glory, and Whittingtons renown or, A looking-glass for citizens of London Being a remarkable story, how Sir Richard Whittington (a poor boy bred up in Lancashire) came to be three times Lord Mayor of London in three several kings reigns, and how his rise was by a cat, which he sent for a venture beyond sea. Together with his bountiful gits and liberality given to this honourable city: and the vast sums of money he lent the King to maintain the vvars in France. And how at a great feast to which he invited the King, the Queen, and the nobility, he generously burnt the writings, and freely forgave his Majesty the whole debt. Tune of, Dainty come thou to me.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>printed for R. Burton, at the Horse-shoe in West Smith-field,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1641]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse - "Brave London prentices,".</note>
+                  <note>Publication date from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Whittington, Richard, d. 1423 --  Poetry --  Early works to 1800.</term>
+               <term type="topical_term">Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:197998:1"/>
+            <head>
+               <hi>Londons</hi> Glory, and <hi>Whittingtons</hi> Renown OR, A Looking-Glass for Citizens of <hi>LONDON.</hi>
+            </head>
+            <head type="sub">Being a Remarkable Story, how Sir <hi>Richard Whittington</hi> (a poor Boy bred up in <hi>Lancashire</hi>) came to be three times Lord Mayor of <hi>London</hi> in three several Kings Reigns, and how his rise was by a Cat, which he sent for a Venture be<g ref="char:EOLhyphen"/>yond Sea. Together with his Bountiful Gifts and Liberality given to this Honourable City: And the vast Sums of Money he lent the King to maintain the VVars in <hi>France.</hi> And how at a great Feast to which he invited the King, the Queen, and the Nobility, He Generously Burnt the Writings, and freely forgave his Majesty the whole Debt.</head>
+            <opener>Tune of, <hi>Dainty come thou to me.</hi>
+            </opener>
+            <p>
+               <figure>
+                  <figDesc>man on a horse marching in procession</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>BRave <hi>London</hi> Prentices,</l>
+               <l>come listen to my Song,</l>
+               <l>Tis for your glory all,</l>
+               <l>and to you doth belong,</l>
+               <l>And you poor Country Lads,</l>
+               <l>though born of low degrée</l>
+               <l>Sée by gods providence,</l>
+               <l>what you in time may bée,</l>
+            </lg>
+            <lg>
+               <l>Hear must I tell the praise,</l>
+               <l>of worthy <hi>whittington,</hi>
+               </l>
+               <l>Known to be in his dayes,</l>
+               <l>thrice Lord Mayor of <hi>London,</hi>
+               </l>
+               <l>But of poore parentage,</l>
+               <l>born was he as we heare,</l>
+               <l>And in his tender age,</l>
+               <l>bred up in Lancashire.</l>
+            </lg>
+            <lg>
+               <l>Prooly to <hi>London,</hi> then,</l>
+               <l>came up this Simple lad,</l>
+               <l>Where with a Marchant-man,</l>
+               <l>soon he a dwelling had,</l>
+               <l>And in a Kitchen plac'd</l>
+               <l>a Scullion for to be,</l>
+               <l>Where a long time he past,</l>
+               <l>in drudging slavery,</l>
+            </lg>
+            <pb facs="tcp:197998:1"/>
+            <p>
+               <figure>
+                  <figDesc>a ship with an S on the sail</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>portrait of a woman wearing a crown, and of a smaller figure, also wearing a crown</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>His dayly service was,</l>
+               <l>turning Spitts at the fire,</l>
+               <l>And to scour potts of Brass,</l>
+               <l>for a poore Scullions hire,</l>
+               <l>A sharp Cook Maid there was,</l>
+               <l>that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eat him day by day,</l>
+               <l>Which made him in his mind.</l>
+               <l>think for to run away.</l>
+            </lg>
+            <lg>
+               <l>So from the Marchant-man,</l>
+               <l>
+                  <hi>Whittington</hi> secretly,</l>
+               <l>Towards his Country ran,</l>
+               <l>to gaine his liberty,</l>
+               <l>But as he went along,</l>
+               <l>in a faire Summers morn,</l>
+               <l>
+                  <hi>Londons</hi> Bells swéetly rung,</l>
+               <l>
+                  <hi>Whittington</hi> back return.</l>
+            </lg>
+            <lg>
+               <l>Evermore soundiry so,</l>
+               <l>turn again <hi>Whittington,</hi>
+               </l>
+               <l>And thou in time shall be,</l>
+               <l>Lord Mayor of <hi>London</hi>
+               </l>
+               <l>Whore vpon badk againe,</l>
+               <l>
+                  <hi>Whittington</hi> came with spéed,</l>
+               <l>A prentice to remaine</l>
+               <l>as the Lord had decréed.</l>
+            </lg>
+            <lg>
+               <l>Still blessed be the Bells,</l>
+               <l>this was his daily Song,</l>
+               <l>Which my good fortune tells,</l>
+               <l>most swéetly have they rung.</l>
+               <l>If God so fav<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur me,</l>
+               <l>I will not prove unkind;</l>
+               <l>
+                  <hi>London</hi> my Love shall sée,</l>
+               <l>and my large bounties find.</l>
+            </lg>
+            <lg>
+               <l>But sée this happy chanc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>
+                  <hi>Whittington</hi> had a Cat,</l>
+               <l>Which he a venture sent</l>
+               <l>and got his wealth by that.</l>
+               <l>For from Forreign Land</l>
+               <l>where Rats &amp; Mice abound.</l>
+               <l>Th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y brought him for his Cat</l>
+               <l>many a fair thousand pound.</l>
+            </lg>
+            <lg>
+               <l>When as they home were come</l>
+               <l>with their Ship Laden so,</l>
+               <l>
+                  <hi>Whittington</hi>'s wealth began,</l>
+               <l>by this Cat thus to grow:</l>
+               <l>Scullions life he forsook;</l>
+               <l>to be a Merchant good,</l>
+               <l>And soon he began to look,</l>
+               <l>how well his credit stood.</l>
+            </lg>
+            <lg>
+               <l>Soon after he was chose</l>
+               <l>Sheriff of the City here,</l>
+               <l>And then he quickly rose</l>
+               <l>higher as did appear.</l>
+               <l>For to this City's praise,</l>
+               <l>Sir <hi>Richard VVhittington,</hi>
+               </l>
+               <l>Came to be in his days,</l>
+               <l>thrice Lord Mayor of <hi>London.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>More his fame to advance,</l>
+               <l>thousands he lent his King.</l>
+               <l>To maintain Wars in <hi>France</hi>
+               </l>
+               <l>honour from thence to bring.</l>
+               <l>And after at a Feast,</l>
+               <l>which he the King did make</l>
+               <l>Burnt the Bonds as a jest</l>
+               <l>and would no m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ney take.</l>
+            </lg>
+            <lg>
+               <l>Ten thousand pound he gave,</l>
+               <l>to his Prince willingly,</l>
+               <l>And would no penny have</l>
+               <l>for his kind courtesie:</l>
+               <l>As God thus made him great,</l>
+               <l>so he would daily sée,</l>
+               <l>Poor people fed with meat,</l>
+               <l>to shew his Charity.</l>
+            </lg>
+            <lg>
+               <l>Prisoners poor, Cherisht were,</l>
+               <l>widows swéet, comfort found,</l>
+               <l>Good déeds both far and near</l>
+               <l>of him do still resound:</l>
+               <l>
+                  <hi>VVhittingtons</hi> Colledge is</l>
+               <l>one of his Charities;</l>
+               <l>And a fair Church he built</l>
+               <l>to lasting memories.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>New-gate</hi> he builded fair,</l>
+               <l>for Prisoners to lye in;</l>
+               <l>
+                  <hi>Christs Church</hi> he did repair,</l>
+               <l>Christian love for to win.</l>
+               <l>Many more such like déeds,</l>
+               <l>were done by <hi>Whittington,</hi>
+               </l>
+               <l>Which joy and comfort bréeds</l>
+               <l>to all that look thereon.</l>
+            </lg>
+            <lg>
+               <l>Let all brave Citizens</l>
+               <l>who do this story read,</l>
+               <l>By his example learn,</l>
+               <l>always the poor to féed,</l>
+               <l>What is lent to the Poor,</l>
+               <l>the Lord will sure repay,</l>
+               <l>And Blessings kéep in store</l>
+               <l>until the latter day.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Lancashire</hi> thou hast bred,</l>
+               <l>this flower of Charity,</l>
+               <l>Though he be dead and gone,</l>
+               <l>yet lives his Memory.</l>
+               <l>Those Bells that call'd him so,</l>
+               <l>turn again <hi>Whittington,</hi>
+               </l>
+               <l>Would they call many ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>such men to fair <hi>LONDON.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, Printed for <hi>R. Burton.</hi> at the Horse-shoe in West Smithfield.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
